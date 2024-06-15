@@ -11,6 +11,17 @@ This Book Recommendation project requires users to create an account to access i
 
 Based on this interaction, the home page will show personalized book recommendations for the user, alongside recommendations from other users. Additionally, three charts will display statistics about the user's reading preferences, helping to predict the types of books they might be interested in.
 
+![Screenshot 2024-06-16 at 00 16 43](https://github.com/sysbr0/send_email/assets/112288155/ae9a778c-fd8f-4801-834f-29eeab1fca90)
+
+Recomandation books 
+<img width="1470" alt="Screenshot 2024-06-16 at 00 51 01" src="https://github.com/sysbr0/send_email/assets/112288155/8d3c8214-1013-4548-ae19-9069b6087b37">
+
+
+people's book recomandations 
+<img width="1470" alt="Screenshot 2024-06-16 at 00 52 37" src="https://github.com/sysbr0/send_email/assets/112288155/f575d881-9bf1-4265-a90c-28fa7a9cfc3e">
+
+
+
 ## Table of Contents
 1. [Introduction](#introduction)
    - Overview of the project and its purpose
