@@ -40,6 +40,8 @@ people's book recomandations
    - Information about the project's license
 7. [Acknowledgements](#acknowledgements)
    - Credits to those who have contributed or inspired the project
+8. [poster](#poster)
+   - Every thing related to my project is located at my poster 
 
 ## Installation
 
@@ -125,8 +127,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 We would like to thank the Django and Neo4j communities for their excellent tools and support.
-
-[PlantillaA2Poster  -  Compatibility Mode.pdf](https://github.com/user-attachments/files/15855509/PlantillaA2Poster.-.Compatibility.Mode.pdf)
+## poster
+[BookRecomandationPoster.pdf](https://github.com/user-attachments/files/15855509/PlantillaA2Poster.-.Compatibility.Mode.pdf)
 
 
 
