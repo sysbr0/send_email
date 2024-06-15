@@ -6,6 +6,9 @@ Welcome to the Book Recommendation repository! This project is built using Djang
 
 This Book Recommendation project requires users to create an account to access its features. Once registered, users will be presented with a selection of random books fetched from the Neo4j database. Clicking on a book will display detailed information about it, and the system will record the book's ID, category ID, and the average age of users who rated the book.
 
+![Screenshot 2024-06-16 at 00 09 38](https://github.com/sysbr0/send_email/assets/112288155/bcefea85-c949-45f6-8402-a3e4bf555e57)
+
+
 Based on this interaction, the home page will show personalized book recommendations for the user, alongside recommendations from other users. Additionally, three charts will display statistics about the user's reading preferences, helping to predict the types of books they might be interested in.
 
 ## Table of Contents
