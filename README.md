@@ -1,7 +1,9 @@
 # Book Recommendation
 
 ## Introduction
-Welcome to the Book Recommendation repository! This project is built using Django, a powerful Python web framework, and Neo4j, an advanced graph database management system. The project is contained within a virtual environment to ensure that dependencies are managed effectively.
+"First of all, I would like to thank Dr. Rasul Das for giving me the opportunity to learn the definition of a network and how we can use it to achieve understandable data using graphics."
+
+Welcome to the Book Recommendation repository! This project is built using Django, a powerful Python web framework, and Neo4j, an advanced graph database management system. 
    - <img width="1470" alt="Screenshot 2024-06-15 at 23 59 36" src="https://github.com/sysbr0/send_email/assets/112288155/01f15f8d-7cba-4d8b-b959-123f467b8595">
 
 This Book Recommendation project requires users to create an account to access its features. Once registered, users will be presented with a selection of random books fetched from the Neo4j database. Clicking on a book will display detailed information about it, and the system will record the book's ID, category ID, and the average age of users who rated the book.
@@ -75,33 +77,18 @@ people's book recomandations
     pip install -r requirements.txt
     ```
 
-5. **Configure your Django settings:**
-    - Update the `DATABASES` setting in `settings.py` to connect to your online Neo4j database.
-    - Example configuration:
-    ```python
-    DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.dummy',
-        },
-        'neo4j': {
-            'ENGINE': 'django_neomodel',
-            'HOST': 'bolt://<username>:<password>@<your-neo4j-host>:<port>',
-        }
-    }
-    ```
-    - Replace `<username>`, `<password>`, `<your-neo4j-host>`, and `<port>` with your Neo4j connection details.
 
-6. **Run migrations:**
+5. **Run migrations:**
     ```bash
     python manage.py migrate
     ```
 
-7. **Create a superuser:**
+6. **Create a superuser:**
     ```bash
     python manage.py createsuperuser
     ```
 
-8. **Start the development server:**
+7. **Start the development server:**
     ```bash
     python manage.py runserver
     ```
@@ -138,3 +125,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 We would like to thank the Django and Neo4j communities for their excellent tools and support.
+
+[PlantillaA2Poster  -  Compatibility Mode.pdf](https://github.com/user-attachments/files/15855509/PlantillaA2Poster.-.Compatibility.Mode.pdf)
+
+
+
