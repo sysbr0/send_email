@@ -29,7 +29,7 @@ people's book recomandations
    - Instructions on how to use the project and its features
 4. [Features](#features)
    - List of key features and functionalities
-5. [pages](##pages)
+5. [pages](##Pages)
    - website's Pages
 6. [Contributing](#contributing)
    - Guidelines for contributing to the project
@@ -110,7 +110,7 @@ Once the server is running, you can access the application at `http://127.0.0.1:
 - User statistics and reading preference charts
 
 
-## pages
+## Pages
   - Home page after login in 
     <img width="1470" alt="Screenshot 2024-06-15 at 23 59 36" src="https://github.com/sysbr0/send_email/assets/112288155/01f15f8d-7cba-4d8b-b959-123f467b8595">
   - Book detiles page 
