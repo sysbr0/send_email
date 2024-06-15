@@ -2,6 +2,7 @@
 
 ## Introduction
 Welcome to the Book Recommendation repository! This project is built using Django, a powerful Python web framework, and Neo4j, an advanced graph database management system. The project is contained within a virtual environment to ensure that dependencies are managed effectively.
+   - <img width="1470" alt="Screenshot 2024-06-15 at 23 59 36" src="https://github.com/sysbr0/send_email/assets/112288155/01f15f8d-7cba-4d8b-b959-123f467b8595">
 
 This Book Recommendation project requires users to create an account to access its features. Once registered, users will be presented with a selection of random books fetched from the Neo4j database. Clicking on a book will display detailed information about it, and the system will record the book's ID, category ID, and the average age of users who rated the book.
 
@@ -10,6 +11,7 @@ Based on this interaction, the home page will show personalized book recommendat
 ## Table of Contents
 1. [Introduction](#introduction)
    - Overview of the project and its purpose
+
 2. [Installation](#installation)
    - Step-by-step guide to setting up the project locally
 3. [Usage](#usage)
